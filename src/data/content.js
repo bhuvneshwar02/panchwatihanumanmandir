@@ -27,8 +27,10 @@ const content = {
   history: {
     heading: "Our Story",
     paragraphs: [
-      "Built by devotees of this village and sustained ever since by their care, Shri Hanuman Mandir grew from a small shrine into the temple complex it is today — its sanctum, mandap and surrounding shrines added over the years as the community's devotion grew.",
-      "Today the temple continues that tradition: maintained by local families, open for daily darshan, and at its fullest during Hanuman Jayanti and other festivals, when the courtyard fills with lights, offerings and the sound of bhajans.",
+      "Panchwati Hanuman Mandir was established by Late Shri S.I. Tejpal in loving memory of his father, with the vision of creating a sacred place where people from all communities could come together to worship, seek blessings, and find peace.",
+      "Since its foundation, the temple has been lovingly managed and maintained by the Tejpal family, who continue to preserve its traditions with devotion and dedication. Every year, during the month of November, the family organizes a grand Bhandara (community feast), welcoming devotees from nearby villages and beyond. This tradition has been carried forward with great faith and will continue for generations to come.",
+      "The temple is open to everyone and has become a place of hope, faith, and spiritual strength. Countless devotees visit to offer prayers to Shree Hanuman Ji, seeking blessings for health, happiness, success, and peace in their lives. Many believe their prayers have been answered, making the temple a cherished spiritual destination for the community.",
+      "Tuesday, the sacred day dedicated to Shree Hanuman Ji, is the busiest day at the temple. Hundreds of devotees gather to offer prayers, participate in the aarti, and experience the divine atmosphere filled with devotion and positivity.",
     ],
   },
 
