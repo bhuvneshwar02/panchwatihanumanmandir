@@ -4,7 +4,7 @@ import WhatsAppIcon from './WhatsAppIcon';
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://chat.whatsapp.com/GyQJlLI1XWsGjRJVvLzJmP"
+      href="https://whatsapp.com/channel/0029VbCs0EpEawdmvBua7j2I"
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-float"
