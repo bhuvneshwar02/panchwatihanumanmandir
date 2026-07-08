@@ -12,7 +12,7 @@ const content = {
   phone: "+91 7617482XXX",                     // TODO: temple contact number
   email: "bhuvneshwarsharma44@gmail.com",                                    // optional
 
-  whatsappCommunityLink: "https://chat.whatsapp.com/GyQJlLI1XWsGjRJVvLzJmP",
+  whatsappCommunityLink: "https://whatsapp.com/channel/0029VbCs0EpEawdmvBua7j2I",
 
   mapEmbedQuery: "28.6056135,79.120293", // from https://maps.app.goo.gl/nwZSH3QEHdVRNtRm6
   googleMapsLink: "https://maps.app.goo.gl/nwZSH3QEHdVRNtRm6", // opens Google Maps app directly, better for mobile "Get Directions"
