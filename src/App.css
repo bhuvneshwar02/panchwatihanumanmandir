@@ -206,10 +206,11 @@
 }
 
 @media (max-width: 900px) {
-  .hero__inner { grid-template-columns: 1fr; text-align: center; padding-top: 110px; }
+  .hero__inner { grid-template-columns: 1fr; text-align: center; padding-top: 110px; padding-bottom: 90px; }
   .hero__actions { justify-content: center; }
   .hero__murti { order: -1; width: min(100%, 300px); }
   .hero__tagline { max-width: none; margin-left: auto; margin-right: auto; }
+  .hero__scroll { display: none; }
 }
 
 /* ================= ABOUT / HISTORY (shared grid pattern) ================= */
