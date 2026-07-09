@@ -1,4 +1,5 @@
 import content from '../data/content';
+import SocialIcons from './SocialIcons';
 
 export default function Footer() {
   return (
@@ -13,7 +14,9 @@ export default function Footer() {
         </div>
 
         <p className="footer__om">ॐ श्री हनुमते नमः</p>
-
+        
+        <SocialIcons />
+        
         <p className="footer__copy">
           © {new Date().getFullYear()} {content.templeName}. Built with devotion.
         </p>
