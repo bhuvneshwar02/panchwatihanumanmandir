@@ -14,6 +14,17 @@ const content = {
 
   whatsappCommunityLink: "https://whatsapp.com/channel/0029VbCs0EpEawdmvBua7j2I",
 
+   // Icons row shown in the footer. Leave a link as "" to hide that icon.
+  // Add facebook / youtube links here whenever you have them — no other
+  // code needs to change, the icon will just start showing up.
+  socialLinks: {
+    instagram: "https://www.instagram.com/hanumanmandirkhutiya?igsh=MXBnaW5yNnFlbmpkbw==",
+    whatsapp: "https://whatsapp.com/channel/0029VbCs0EpEawdmvBua7j2I",
+    googleReview: "https://maps.app.goo.gl/GHYBM8g9derwoXLL6?g_st=ac",
+    facebook: "", // TODO: add later
+    youtube: "",  // TODO: add later
+  },
+  
   mapEmbedQuery: "28.6056135,79.120293", // from https://maps.app.goo.gl/nwZSH3QEHdVRNtRm6
   googleMapsLink: "https://maps.app.goo.gl/nwZSH3QEHdVRNtRm6", // opens Google Maps app directly, better for mobile "Get Directions"
   about: {
